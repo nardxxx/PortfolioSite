@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/github.io/PortfolioSite/static/css/main.0947c7fa.css",
-    "main.js": "/github.io/PortfolioSite/static/js/main.d8aba586.js",
-    "static/js/787.a7249224.chunk.js": "/github.io/PortfolioSite/static/js/787.a7249224.chunk.js",
-    "static/media/adinusa.png": "/github.io/PortfolioSite/static/media/adinusa.c8071ddbcb7d23388650.png",
-    "static/media/resume.pdf": "/github.io/PortfolioSite/static/media/resume.04c8b919264177966c88.pdf",
-    "static/media/logo.svg": "/github.io/PortfolioSite/static/media/logo.7d057f5b8931d56f2212b2c849b9c19a.svg",
-    "static/media/react.svg": "/github.io/PortfolioSite/static/media/react.19465659ecf7a1122618d3dcf23bf337.svg",
-    "static/media/slick.svg": "/github.io/PortfolioSite/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/github.io/PortfolioSite/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/github.io/PortfolioSite/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/git.svg": "/github.io/PortfolioSite/static/media/git.8497c3c4218d87dc7fd569a5549d60d0.svg",
-    "static/media/javascript.svg": "/github.io/PortfolioSite/static/media/javascript.1d3d28798f08ea1ed7cd47f812044c4f.svg",
-    "static/media/html5.svg": "/github.io/PortfolioSite/static/media/html5.17fbf85b40947c50a82afdfdc5af1cef.svg",
-    "static/media/curve-hr.svg": "/github.io/PortfolioSite/static/media/curve-hr.cbdc8e90bbbff51174494b17a5db6755.svg",
-    "static/media/tailwind.svg": "/github.io/PortfolioSite/static/media/tailwind.7817889fda1887000f0e712239d42b5a.svg",
-    "static/media/slick.woff": "/github.io/PortfolioSite/static/media/slick.295183786cd8a1389865.woff",
-    "static/media/css.svg": "/github.io/PortfolioSite/static/media/css.6b93a281dcf4a9f36dfdd56e7d1fa0aa.svg",
-    "index.html": "/github.io/PortfolioSite/index.html",
-    "main.0947c7fa.css.map": "/github.io/PortfolioSite/static/css/main.0947c7fa.css.map",
-    "main.d8aba586.js.map": "/github.io/PortfolioSite/static/js/main.d8aba586.js.map",
-    "787.a7249224.chunk.js.map": "/github.io/PortfolioSite/static/js/787.a7249224.chunk.js.map"
+    "main.css": "./static/css/main.bab1d788.css",
+    "main.js": "./static/js/main.5b9796f9.js",
+    "static/js/787.a7249224.chunk.js": "./static/js/787.a7249224.chunk.js",
+    "static/media/adinusa.png": "./static/media/adinusa.c8071ddbcb7d23388650.png",
+    "static/media/resume.pdf": "./static/media/resume.04c8b919264177966c88.pdf",
+    "static/media/logo.svg": "./static/media/logo.7d057f5b8931d56f2212b2c849b9c19a.svg",
+    "static/media/react.svg": "./static/media/react.19465659ecf7a1122618d3dcf23bf337.svg",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/git.svg": "./static/media/git.8497c3c4218d87dc7fd569a5549d60d0.svg",
+    "static/media/javascript.svg": "./static/media/javascript.1d3d28798f08ea1ed7cd47f812044c4f.svg",
+    "static/media/html5.svg": "./static/media/html5.17fbf85b40947c50a82afdfdc5af1cef.svg",
+    "static/media/curve-hr.svg": "./static/media/curve-hr.cbdc8e90bbbff51174494b17a5db6755.svg",
+    "static/media/tailwind.svg": "./static/media/tailwind.7817889fda1887000f0e712239d42b5a.svg",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "static/media/css.svg": "./static/media/css.6b93a281dcf4a9f36dfdd56e7d1fa0aa.svg",
+    "index.html": "./index.html",
+    "main.bab1d788.css.map": "./static/css/main.bab1d788.css.map",
+    "main.5b9796f9.js.map": "./static/js/main.5b9796f9.js.map",
+    "787.a7249224.chunk.js.map": "./static/js/787.a7249224.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0947c7fa.css",
-    "static/js/main.d8aba586.js"
+    "static/css/main.bab1d788.css",
+    "static/js/main.5b9796f9.js"
   ]
 }
